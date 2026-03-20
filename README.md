@@ -232,3 +232,6 @@ This combination leverages the global exploration capability of reinforcement le
 - [ ] Phase 3 — Production Scheduling (Taillard benchmark)
 - [ ] Phase 4 — End-to-End RL Simulation (SC2)
 - [ ] Phase 5 — Supplier Selection + Ranking
+
+## Author
+Aklesh Mishra
